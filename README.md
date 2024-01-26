@@ -34,10 +34,3 @@ To run the training, generate the model and analyse the report use the following
  python run_batch.py
  ```
  results.csv file will be created and appended according to the suite test results.
-
-## Ensemble Parameter Optimization 
-To estimate the optimal parameter of the ensemble
-
- ```bash
- python ensemble_optimization.py
- ```
