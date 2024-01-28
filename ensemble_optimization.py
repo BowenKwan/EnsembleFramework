@@ -8,7 +8,7 @@ from compute_component_folding import *
 #parameter setting
 parser = argparse.ArgumentParser()
 
-parser.add_argument('--m', type=int, default=2)     #Default values set to 1
+parser.add_argument('--m', type=int, default=1)     #Default values set to 1
 
 
 parser.add_argument('--b', type=int, default=3)     #Default values set to 3
